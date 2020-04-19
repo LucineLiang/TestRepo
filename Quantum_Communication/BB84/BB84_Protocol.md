@@ -13,7 +13,7 @@
 |Bob's basis|+|x|+|+|x|+|x|+|x|x|+|+|+|+|
 |Bob's string|1|R|0|R|0|0|1|R|1|1|1|1|0|0|
 |Same basis?|Y|N|Y|N|Y|Y|Y|N|Y|Y|Y|Y|Y|Y|
-|Bits to keep|1|-|0|-|0|-|0|0|1|-|1|1|1|1|0|0|
+|Bits to keep|1|-|0|-|0|0|1|-|1|1|1|1|0|0|
 |Test|Y|-|N|-|N|Y|N|-|N|N|N|Y|Y|N|
 |Key|-|-|0|-|0|-|1|-|1|1|1|-|-|0|
 
