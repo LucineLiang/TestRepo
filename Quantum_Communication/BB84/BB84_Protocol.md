@@ -19,4 +19,4 @@
 
 _“Y” and “N” stands for “yes” and “no” respectively, and “R” means that Bob obtains a random result._
 
-_Reference: Course material from Tele9758 EET UNSW._
+_Reference: Course material from Tele9757 EET UNSW._
