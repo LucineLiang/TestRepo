@@ -18,3 +18,5 @@
 |Key|-|-|0|-|0|-|1|-|1|1|1|-|-|0|
 
 _“Y” and “N” stands for “yes” and “no” respectively, and “R” means that Bob obtains a random result._
+
+_Reference: Course material from Tele9758 EET UNSW._
