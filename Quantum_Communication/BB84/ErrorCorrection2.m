@@ -56,6 +56,7 @@ for n = 1: round
     bits_bob_correct = abs(string_7' - coset_leader);%correct Bob's 7-bit string
     BobBitsOut = [BobBitsOut, bits_bob_correct];
 end
+
 %remove zeros padded
 BobBitsOut(:, (length_original+1) : (length_original-tag+7)) = [];
 end
